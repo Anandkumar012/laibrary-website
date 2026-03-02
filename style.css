@@ -225,6 +225,10 @@ footer h3 {
 #contact img {
     width: 45px;
 }
+#contact p {
+  color:grey;
+  font-family:fantasy;
+}
 
 /* --- Advanced Keyframes --- */
 @keyframes gradientMove {
