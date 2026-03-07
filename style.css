@@ -324,10 +324,14 @@ footer h3 {
     font-weight: 600;
     width: 50%;
     margin: auto;
-}
-.copyright span{
     font-family: fantasy;
 }
+
+.creator{
+    font-family: cursive;
+    font-weight: bold;
+}
+
 /* --- Advanced Keyframes --- */
 @keyframes gradientMove {
     0% { background-position: 0% 50%; }
